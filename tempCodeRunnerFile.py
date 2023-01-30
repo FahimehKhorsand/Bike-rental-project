@@ -1,0 +1,1 @@
+shop = BikeRental(100)
